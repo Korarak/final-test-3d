@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Database (ไม่ควรอัปโหลดข้อมูลนักเรียนขึ้น Git)
+exam.db
+
+# OS
+.DS_Store
+Thumbs.db
